@@ -3,5 +3,6 @@
     "ver": "",
     "logo": "amWiki/images/logo.jpg",
     "testing": false,
-    "page-mounts": true
+    "page-mounts": false,
+    "github-url": "http://sinzheng.net"
   }
