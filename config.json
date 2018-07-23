@@ -1,3 +1,7 @@
 {
+    "name": "The Banned Curses",
+    "ver": "",
+    "logo": "http://sinzheng.net/logo.jpg",
+    "testing": false,
     "page-mounts": true
-}
+  }
