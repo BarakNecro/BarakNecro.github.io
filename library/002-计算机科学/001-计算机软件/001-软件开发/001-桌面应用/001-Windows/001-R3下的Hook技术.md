@@ -206,7 +206,7 @@ HMODULE injectDLL(HANDLE process , WCHAR *dllFileName){
 ```
 
 ## 结果展示
-![Alt text](amWiki/images/post/1532596646961.png)
+![Alt text](/amWiki/images/post/1532596646961.png)
 
 
 [^1]:所需的C语言与汇编语言知识
