@@ -1,5 +1,4 @@
 # R3下的Inline Hook技术
-@(《Quick Record》)
 
 > 标签： Windows Hook Inline
 
