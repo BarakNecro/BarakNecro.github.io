@@ -159,10 +159,6 @@ BOOL UnHook(DWORD srcFunctionAddress, BYTE* oldCode, int size){
 
 然后是x64版：
 
-```cpp
-
-```
-
 然后再来编写用于注入DLL到任务管理器的注入器工具，使用最简单的**远线程注入技术**来搞定。
 ```cpp
 #include <Windows.h>
